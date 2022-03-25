@@ -1,12 +1,12 @@
 
 # Amazon web scraping
 
-In this Project i used Selenuim and beautifulsoup to Scrap data from amazon based on a search term 
+In this Project i used selenium and beautifulsoup to Scrap data from amazon based on a search term 
 then store the results in a local csv file
 
 ## What i did in this Project
 
-- I used selenuim and we driver to control the web browser
+- I used selenium and we driver to control the web browser
 - I scraped the data using Beautifulsoup based on unique classes to fetch the needed fields
 - Then I modified the main function to handle the missing data and attribute errors incase that there is a product without a price or ratings 
 
