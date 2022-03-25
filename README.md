@@ -20,6 +20,6 @@ This repository is about Portfolio projects showcasing my skills in
 
 ## Demos
 - Covid-Tableau
-![](https://github.com/NoraYasha/Portfolio-projects/blob/main/Covid-19%20Tableau/covid.gif)
+- ![](https://github.com/NoraYasha/Portfolio-projects/blob/main/Covid-19%20Tableau/covid.gif)
 - Python-Correlation
-![](https://github.com/NoraYasha/Portfolio-projects/blob/main/Movie%20Correlation%20Project/correlation.gif)
+- ![](https://github.com/NoraYasha/Portfolio-projects/blob/main/Movie%20Correlation%20Project/correlation.gif)
