@@ -6,7 +6,7 @@ Correlation between the different variables and then i used seaborn and matplotl
 
 ## Skills used in this project
 - Pandas
-- Numpy
+- NumPy
 - Matplotlib
 - Seaborn
 
