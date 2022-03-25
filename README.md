@@ -15,3 +15,4 @@ This repository is about Portfolio projects showcasing my skills in
 - python amazon scraping script that handles missing data and stores to csv
 - SQL data cleaning and preparation for visualization
 - Tableau Covid-19 visualization
+- SQL Covid-19 queries
