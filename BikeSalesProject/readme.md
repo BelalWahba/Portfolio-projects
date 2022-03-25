@@ -5,7 +5,7 @@ This project is about cleaning Bike Sales data in excel and doing the necessary 
 
 ## What I did in the project
 
-- Removing dublicates from the data
+- Removing duplicates from the data
 
 - Standardizing the Marital status, Gender and the purchased bikes columns for ease of use
 
