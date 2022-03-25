@@ -16,3 +16,8 @@ This repository is about Portfolio projects showcasing my skills in
 - SQL data cleaning and preparation for visualization
 - Tableau Covid-19 visualization
 - SQL Covid-19 queries
+
+
+## Demos
+![](/Covid-19 Tableau/covid.gif)
+![](/Movie Correlation Project/correlation.gif)
