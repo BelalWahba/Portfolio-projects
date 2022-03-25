@@ -8,7 +8,7 @@ and find some correlation in the data
 - Tableau
 
 
-## What i did in this Project
+## What I did in this Project
 
 - Used the data from the covidSQL project
 - visualized the most infected countries based on the percent cases to population
