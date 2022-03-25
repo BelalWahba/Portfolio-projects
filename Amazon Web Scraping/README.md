@@ -6,7 +6,7 @@ then store the results in a local csv file
 
 ## What i did in this Project
 
-- I used selenium and we driver to control the web browser
+- I used selenium and web driver to control the web browser
 - I scraped the data using Beautifulsoup based on unique classes to fetch the needed fields
 - Then I modified the main function to handle the missing data and attribute errors incase that there is a product without a price or ratings 
 
