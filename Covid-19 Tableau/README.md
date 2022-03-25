@@ -17,4 +17,5 @@ and find some correlation in the data
 - visualized the relation between the percent deaths and the cases 
 - showed Global Covid-19 numbers
 
-
+## Demo 
+![](covid.gif)
