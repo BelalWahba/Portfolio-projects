@@ -20,4 +20,4 @@ This project is about cleaning Bike Sales data in excel and doing the necessary 
 
 ## Demo
 
-![bikesales](https://i.makeagif.com/media/3-25-2022/lu-l40.gif)
+![bikesales](https://media.giphy.com/media/TD75W2psoH1mrMigD6/giphy.gif)
