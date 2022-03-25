@@ -19,5 +19,5 @@ This repository is about Portfolio projects showcasing my skills in
 
 
 ## Demos
-![](Covid-19 Tableau/covid.gif)
+![](https://github.com/NoraYasha/Portfolio-projects/blob/main/Covid-19%20Tableau/covid.gif)
 ![](Movie Correlation Project/correlation.gif)
