@@ -1,7 +1,7 @@
 
 # Online Retail KPI dashboard 
 
-In this project i worked at a kpi dash board showcasing different key performance indicators 
+In this project i made a kpi dash board showcasing different key performance indicators 
 for the retail store while providing an app like experience for the stakeholders. 
 ## KPIs
 - Revenue per Quarter
