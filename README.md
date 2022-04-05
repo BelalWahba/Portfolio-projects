@@ -7,6 +7,7 @@ This repository is about Portfolio projects showcasing my skills in
 - Excel
 - SQL 
 - Tableau
+- Power BI
 
 ## Projects in the repository
 
@@ -16,5 +17,6 @@ This repository is about Portfolio projects showcasing my skills in
 - SQL data cleaning and preparation for visualization
 - Tableau Covid-19 visualization
 - SQL Covid-19 queries
+- Power BI Visualization
 
 
