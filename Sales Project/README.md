@@ -22,6 +22,6 @@ In this project we loaded Data from multiple CSVs then we cleaned and transforme
 ##  Power BI Dashboard
  
 
-![](retail.gif)
+![](https://github.com/Mo-Saad-TheAnalyst/Portfolio-projects/blob/main/Sales%20Project/Sales%20Viz/report%20gif/sales%20gif.gif)
 
 
