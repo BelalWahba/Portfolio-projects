@@ -1,5 +1,5 @@
 
-#  Power BI Dashboard
+#  Power BI Report
  
 
 ![](https://github.com/Mo-Saad-TheAnalyst/Portfolio-projects/blob/main/Sales%20Project/Sales%20Viz/Report%20images/sales-001.jpg)
