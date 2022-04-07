@@ -15,7 +15,7 @@ In this project we loaded Data from multiple CSVs then we cleaned and transforme
 ### Skills used in this project and the visuals
 
 - Data cleaning 
-- Data manupulation and transformation 
+- Data manipulation and transformation 
 - Data visualization
 - Power BI visualization
 
