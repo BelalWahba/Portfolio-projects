@@ -1,7 +1,6 @@
 
 # Sales Analysis 
-In this project we loaded Data from multiple CSVs then we cleaned and transformed the Data
-. We Parsed down the address column added a month and revenue columns.
+In this project I loaded Data from multiple CSVs, Cleaned and transformed the Data to ensure data integrity. I Parsed down the address column into different columns to make queries related to the address a bit easier to handle. Added a month and revenue columns based on already existing columns.
 
 
 
