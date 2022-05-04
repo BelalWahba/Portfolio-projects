@@ -1,6 +1,11 @@
 
 # Sales Analysis 
-In this project I loaded Data from multiple CSVs, Cleaned and transformed the Data to ensure data integrity. I Parsed down the address column into different columns to make queries related to the address a bit easier to handle. Added a month and revenue columns based on already existing columns.
+In this project :
+- I loaded Data from multiple CSVs
+- I Used Pandas Library to Clean and transformed the Data to ensure data integrity. 
+- I Parsed down the address column into different columns to make queries related to the address a bit easier to handle. 
+- I Added a month and revenue columns based on already existing columns.
+- I constructed basic visualizations and dashboards using Power BI to convey my analysis.
 
 
 
